@@ -5,6 +5,7 @@
   ssssssssssss and This is a giraffe ggggggggggggggggggggggggggggg
 </p>
 
+<div style="clear:both;"></div>
 
 <h2>My First JavaScript</h2>
 <button onclick="makeSentence()">Click me</button>
